@@ -1,2 +1,2 @@
 # syracuse
-A utilities library for React Native applications
+A utilities library for React Native applications.
